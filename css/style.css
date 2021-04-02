@@ -4997,7 +4997,7 @@ table > tr > td {
 .feature-left .feature-icon {
     position: absolute;
     float: left;
-    left: -2px;
+    right: -28px;
 }
 
 .feature-left .feature.block.wimage {
